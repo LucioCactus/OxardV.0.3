@@ -1,0 +1,26 @@
+@mixin main{
+    margin: 130px;
+}
+
+@mixin cartas {
+margin-right: 10px;
+}
+
+.brasil{
+    @include cartas}
+
+.aleman{
+    @include cartas}
+
+.ingles{
+    @include cartas}
+
+.ruso{
+    @include cartas}
+
+.frances{
+    @include cartas}
+
+    .cartas{
+        @include main}
+    

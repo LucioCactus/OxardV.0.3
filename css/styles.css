@@ -1,0 +1,30 @@
+.brasil {
+  margin-right: 10px;
+}
+
+.aleman {
+  margin-right: 10px;
+}
+
+.ingles {
+  margin-right: 10px;
+}
+
+.ruso {
+  margin-right: 10px;
+}
+
+.frances {
+  margin-right: 10px;
+}
+
+.cartas {
+  margin: 130px;
+}
+
+.cartas {
+  background-color: yellow;
+  border-radius: 40px;
+  -webkit-box-shadow: 1px 2px 12px 0px;
+          box-shadow: 1px 2px 12px 0px;
+}

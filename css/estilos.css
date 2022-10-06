@@ -1,0 +1,169 @@
+/* <!-- FONTS--> */
+@font-face {
+    font-family: miFuente1;
+    src: url("../css/fonts/BACKCOUNTRY-Regular.ttf");
+}
+
+@font-face {
+    font-family: miFuente;
+    src: url("../css/fonts/Poppins-Regular.ttf");
+}
+
+@font-face {
+    font-family: miFuente2;
+    src: url("../css/fonts/Mont-HeavyDEMO.otf");
+}
+
+@font-face {
+    font-family: miFuente3;
+    src: url("../css/fonts/Mont-ExtraLightDEMO.otf");
+}
+
+
+/* <!-- body--> */
+#body{
+    background-position: center;
+    position: relative;
+    background-image: url("../media/body.jpg");
+    overflow-x: hidden;
+    width: 80vw;
+    height: 100vh;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#header nav{
+    display: flex;
+    height: 60px;
+}
+
+#body nav img{
+    margin-bottom: 110px;
+    margin-left: 500px;
+    width: 25px;
+height: 25px;
+}
+
+
+/* <!-- CAROUSEL INDEX-> */
+.carousel{
+height: 100vh;
+}
+/* <!-- CAROUSEL INDEX--> */
+.carousel img{
+    height: 100vh;
+}
+/* <!-- CAROUSEL INDEX--> */
+#carouselExampleCaptions{
+    width: 90vw;
+    margin-left:50px !important;
+}
+/* <!-- CAROUSEL INDEX--> */
+.carousel-inner{
+    height: 100vh !important;
+}
+
+/* <!-- CARTAS CURSOS--> */
+.cartas{
+    margin: 130px;
+}
+
+.brasil{
+    margin-right: 10px;
+}
+
+.aleman{
+    margin-right: 10px;
+}
+
+.ingles{
+    margin-right: 10px;
+}
+
+.ruso{
+    margin-right: 10px;
+}
+
+.frances{
+    margin-right: 10px;
+}
+/* <!-- CARTAS CURSOS--> */
+
+
+
+/* <!-- ACORDEON SOBRE NOSOTROS--> */
+.acordion{
+    height: 10px;
+}
+
+h3 {
+    margin-left: 30px;
+    padding-bottom: 150px !important;
+     font-size: 40px;
+     color: #000000;
+     font-family: miFuente2;
+ }
+ /* <!-- ACORDEON SOBRE NOSOTROS--> */
+
+
+
+/* <!-- OXARD LOGO--> */
+h1 {
+   padding-bottom: 150px !important;
+    font-size: 40px;
+    color: #ff2e5f;
+    font-family: miFuente2;
+}
+
+.login{
+    margin-top: 300px;
+}
+
+form{
+    margin-right: 20px;
+}
+
+
+/* <!-- HEADER--> */
+#header nav a{
+    margin-right: 30px !important;
+}
+    
+
+/* <!-- HOVER--> */
+header nav a:hover{
+    border-radius: 0px;
+    background-color: #ff2e5f;
+    color: #ff2e5f;
+}
+
+
+/* <!-- FOOTER--> */
+footer{
+    padding: 0px !important;
+    background-color: gold;
+height: 80px;
+}
+
+footer h1{
+    margin-top: 20px;
+}
+
+footer img{
+    width: 30px;
+height: 30px;
+}
+
+.logo{
+    margin-top: 10px;
+    width: 60px;
+    height: 60px;
+margin-right: 20px;
+margin-left: 15px;
+}
+
+.telefono{
+    margin-top: 20px;
+    margin-left: 1200px;
+}
+/* <!-- FOOTER--> */
